@@ -1,0 +1,2 @@
+rosrun pysdf sdf2urdf.py modelloMIO.sdf modelloMIO.urdf
+https://github.com/andreasBihlmaier/pysdf    from https://www.youtube.com/watch?v=8g5nMxhi_Pw&t=197s
